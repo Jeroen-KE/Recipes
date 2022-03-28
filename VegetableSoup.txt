@@ -6,4 +6,5 @@ Ingredients:
  - five tomatoes
  - one onion
  - bouillon
+ - a carrot
 
